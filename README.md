@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rupam756/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Rupam756/LeetCode/tree/master/0020-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -28,4 +29,12 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Rupam756/LeetCode/tree/master/0016-3sum-closest) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Rupam756/LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Rupam756/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
