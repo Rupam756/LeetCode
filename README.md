@@ -21,6 +21,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rupam756/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Rupam756/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Rupam756/LeetCode/tree/master/0032-longest-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -33,8 +34,14 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rupam756/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Rupam756/LeetCode/tree/master/0032-longest-valid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rupam756/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Rupam756/LeetCode/tree/master/0032-longest-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Rupam756/LeetCode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
