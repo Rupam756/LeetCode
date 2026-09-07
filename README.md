@@ -21,6 +21,7 @@
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Rupam756/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/Rupam756/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Rupam756/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Rupam756/LeetCode/tree/master/0032-longest-valid-parentheses) |
@@ -46,6 +47,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Rupam756/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Rupam756/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rupam756/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
@@ -56,4 +58,8 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rupam756/LeetCode/tree/master/0009-palindrome-number) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Rupam756/LeetCode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
