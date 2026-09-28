@@ -29,6 +29,7 @@
 | [0014-longest-common-prefix](https://github.com/Rupam756/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Rupam756/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Rupam756/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Rupam756/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rupam756/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rupam756/LeetCode/tree/master/0009-palindrome-number) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Rupam756/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 ## Recursion
 |  |
 | ------- |
@@ -90,4 +92,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rupam756/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/Rupam756/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 <!---LeetCode Topics End-->
