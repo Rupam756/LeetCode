@@ -68,10 +68,12 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Rupam756/LeetCode/tree/master/0009-palindrome-number) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Rupam756/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0231-power-of-two](https://github.com/Rupam756/LeetCode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Rupam756/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0231-power-of-two](https://github.com/Rupam756/LeetCode/tree/master/0231-power-of-two) |
 ## Linked List
 |  |
 | ------- |
@@ -96,4 +98,8 @@
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/Rupam756/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Rupam756/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
