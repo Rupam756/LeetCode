@@ -9,6 +9,7 @@
 | [0016-3sum-closest](https://github.com/Rupam756/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Rupam756/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Rupam756/LeetCode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Rupam756/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Rupam756/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Two Pointers
 |  |
@@ -102,4 +103,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Rupam756/LeetCode/tree/master/0231-power-of-two) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Rupam756/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
